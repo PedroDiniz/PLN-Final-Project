@@ -18,7 +18,7 @@ Para executar o servidor, responsável por entregar as sugestões, execute
 ptyhon server.py
 ```
 
-OBS.: Você precisa ter a porta `3500` desocupada em sua máquina.
+OBS.: Você precisa ter a porta `8080` desocupada em sua máquina.
 
 Em seguida, para acessar a Interface Gráfica, abra o arquivo `ui/index.html` no
 navegador.  Ao digitar no navegador, ao final de uma palavra (marcado por um
